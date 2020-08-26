@@ -1,7 +1,5 @@
 ## Hello,
-
 ## My name is Garret Gonzales
-
 # I'm a Web Developer living in Austin, Texas
 *** 
 
