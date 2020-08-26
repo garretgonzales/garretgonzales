@@ -1,6 +1,4 @@
-## Hello,
-## My name is Garret Gonzales
-# I'm a Web Developer living in Austin, Texas
+## Hello, My name is Garret Gonzales and I'm Web Developer living in Austin, Texas
 *** 
 
     
