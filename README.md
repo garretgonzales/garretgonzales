@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![linkedin badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/akankshasingh121224)
+[![linkedin badge](https://img.shields.io/badge/DavidGonzales-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/david-gonzales-961172172/)
 
 <!--
 **garretgonzales/garretgonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
