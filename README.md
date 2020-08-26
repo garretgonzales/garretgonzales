@@ -1,10 +1,12 @@
-### Hello,
+## Hello,
 
+## My name is Garret Gonzales
+
+# I'm a Web Developer living in Austin, Texas
 *** 
 
-- 🔭 I’m currently working on ...
     
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python!
       
 - 📫 How to reach me: ...
 
